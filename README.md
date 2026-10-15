@@ -1,2 +1,2 @@
 # AI-Student-Helpdesk
-An AI-powered Student Helpdesk desktop application built with JavaFX and LangChain4j, featuring RAG-based chatbot assistance, FAQs, role-based authentication, ticket management, and a knowledge base to streamline university student support.
+A university Advanced Programming (AP) project developed using Java and JavaFX. This AI-powered Student Helpdesk application integrates LangChain4j and Retrieval-Augmented Generation (RAG) to provide chatbot assistance, FAQ browsing, role-based authentication, and ticket management. Includes the complete source code and project report.
